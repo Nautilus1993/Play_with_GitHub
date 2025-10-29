@@ -9,3 +9,4 @@
 
 # Play_with_GitHub
 用来尝试github各种功能
+更新了main分支的readme，测试分支合并功能
